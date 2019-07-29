@@ -1,6 +1,6 @@
 Projeto Final CoreEngineering
 
----------------------
+------------------------------
 
 Projeto com finalidade de testar conhecimentos obtidos na trilha Core Engineering ilegra!
 
@@ -18,4 +18,8 @@ Funcionamento da aplicação:
 - Ao detectar mudanção no diretório de entrada o mesmo irá gerar um novo relatório no diretório de saída em um arquivo com nome
 	"{dados_saida}.done.dat", lendo todos os arquivo existentes no diretório de entrada;
 - É possível verificar quando um nova alteração de entrada, deleção ou modificação no arquivo é realizada apartir do terminal;
+- Para parar a execução utilize "CTRL+C" e após execute "gradle --stop".
 
+------------------------------
+
+Por: Antonio Azambuja
