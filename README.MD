@@ -20,7 +20,7 @@ Funcionamento da aplicação:
 - É possível verificar quando um nova alteração de entrada, deleção ou modificação no arquivo é realizada apartir do terminal;
 - Dentro da pasta arquivos de testes, encontram-se arquivos utilizados para teste da aplicação;
 - Veja que o arquivo segue um padrão para leitura dos dados e elaboração do relatório;
-- A aplicação utiliza o caracter "ç" como delimitador de dados;
+- A aplicação detecta o delimitador de dados o utiliza para realizar decodificação do arquivo;
 
 - O relatório criado consiste em (Separados pelo delimitador "/"):
 * Quantidades de clientes
