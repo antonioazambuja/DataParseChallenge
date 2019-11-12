@@ -1,0 +1,10 @@
+apply plugin: 'application'
+mainClassName = 'com.antonioazambuja.coreengineering.challenge/Program'
+
+repositories {
+   jcenter()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.12' 
+}

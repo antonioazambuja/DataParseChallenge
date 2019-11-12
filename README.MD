@@ -22,7 +22,7 @@ Funcionamento da aplicação:
 - Veja que o arquivo segue um padrão para leitura dos dados e elaboração do relatório;
 - A aplicação utiliza o caracter "ç" como delimitador de dados;
 
-- O relatório criado consiste em (Separados pelo delimitador "ç"):
+- O relatório criado consiste em (Separados pelo delimitador "/"):
 * Quantidades de clientes
 * Quantidades de vendedores
 * ID da venda mais cara
